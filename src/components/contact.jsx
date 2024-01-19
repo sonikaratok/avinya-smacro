@@ -113,14 +113,6 @@ export const Contact = (props) => {
                   <i className="fa fa-phone"></i> Phone
                 </span>{" "}
                 {props.data ? props.data.phone1 : "loading"}<br />
-                {props.data ? props.data.phone2 : "loading"}<br />
-                {props.data ? props.data.phone3 : "loading"}<br />
-                {props.data ? props.data.phone4 : "loading"}<br />
-                {props.data ? props.data.phone5 : "loading"}<br />
-                {props.data ? props.data.phone6 : "loading"}<br />
-                {props.data ? props.data.phone7 : "loading"}<br />
-                {props.data ? props.data.phone8 : "loading"}<br />
-                {props.data ? props.data.phone9 : "loading"}<br />
               </p>
             </div>
             <div className="contact-item">
