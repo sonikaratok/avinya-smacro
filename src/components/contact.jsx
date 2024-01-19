@@ -151,7 +151,7 @@ export const Contact = (props) => {
         <div className="container text-center">
           <p>
             &copy; {new Date().getFullYear()} Avinya, Made with 💜 by{" "}
-            <a href="#" rel="nofollow">
+            <a href="https://github.com/sonikaratok/avinya-smacro" rel="nofollow">
               Team Avinya
             </a>
           </p>

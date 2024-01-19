@@ -1,8 +1,8 @@
 import React from "react";
-import PsychologyIcon from '@mui/icons-material/Psychology';
-import BrushIcon from '@mui/icons-material/Brush';
-import PaletteIcon from '@mui/icons-material/Palette';
-import QueryStatsIcon from '@mui/icons-material/QueryStats';
+// import PsychologyIcon from '@mui/icons-material/Psychology';
+// import BrushIcon from '@mui/icons-material/Brush';
+// import PaletteIcon from '@mui/icons-material/Palette';
+// import QueryStatsIcon from '@mui/icons-material/QueryStats';
 import EnergySavingsLeafIcon from '@mui/icons-material/EnergySavingsLeaf';
 import MicrowaveIcon from '@mui/icons-material/Microwave';
 import ControlCameraIcon from '@mui/icons-material/ControlCamera';

@@ -1,6 +1,6 @@
 import { Image } from "./image";
 import React from "react";
-import { Button } from "@mui/material";
+// import { Button } from "@mui/material";
 export const Gallery = (props) => {
   return (
     <div id="portfolio" className="text-center">
