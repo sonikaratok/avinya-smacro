@@ -1,0 +1,170 @@
+{
+  "Header": {
+    "title": "SMACRO",
+    "paragraph": "Elevate every bite, every time"
+  },
+  "About": {
+    "paragraph": "The Avinya's Smacro is a remarkable blend of industrial aesthetics and intuitive cooking features with its innovative side opening design, led illumination and user friendly interface",
+    "Why": [
+      "Intuitive Operations",
+      "Seamless Functionality",
+      "Trustworthy", 
+      "Optimal Selection"
+    ],
+    "Why2": [
+      "Swiftly customize",
+"Effortlessly tailor",
+"Sustainable",
+ "Reliable"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "side view",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Kitchen view",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Overall view",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    }
+    
+  ],
+  "Gallery1": [
+    {
+      "title": "Kitchen view",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Kitchen view",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },{
+      "title": "inSide view",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    }
+  ],
+  "Services": [
+    
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "The Avinya Smacro microwave is a game-changer! Quick, efficient, and stylish. It's a kitchen essential that makes cooking a breeze. Highly recommend this fantastic appliance!",
+      "name": "⭐⭐⭐⭐⭐"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "Avinya's Smacro microwave exceeded my expectations. Sleek design, user-friendly controls, and cooks evenly. It's become my go-to kitchen companion. Worth every penny!",
+      "name": "⭐⭐⭐⭐"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "The Smacro microwave by Avinya is a kitchen must-have. It's compact, powerful, and delivers consistent results. Perfect for busy lifestyles. I love its modern look too!",
+      "name": "⭐⭐⭐⭐⭐"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "Avinya's Smacro microwave is a time-saver! Easy to use, versatile, and heats food evenly. The quick-start functions are a game-changer. I'm thrilled with this purchase.",
+      "name": "⭐⭐⭐⭐"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "Impressed with Avinya's Smacro microwave! Stylish, spacious, and the preset cooking options are a lifesaver. It has simplified my kitchen routine. Highly recommended for busy households.",
+      "name": "⭐⭐⭐⭐⭐"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "Avinya's Smacro microwave is a winner! It's sleek, powerful, and the sensor cooking feature is spot-on. A reliable addition to any kitchen. Very satisfied with its performance.",
+      "name": "⭐⭐⭐⭐⭐"
+    }
+  ],
+  "Team": [
+    {
+      "name": "Nagashree Bhomkar"
+    },
+    {
+      "name": "Neha Hallikeri"
+    },
+    {
+      "name": "Nisarga Jagdish"
+    },
+    {
+      "name": "Poorvi N P"
+    },
+    {
+      "name": "Ranjana Bijjur"
+    },
+    {
+      "name": "Sahana H B"
+    },
+    {
+      "name": "Smruthi S"
+    },
+    {
+      "name": "Sonika R"
+    },
+    {
+      "name": "Tanmayee Yathish"
+    }
+  ],
+  "Contact": {
+    "address": "The National Institute of Engineering, Mysuru, KA, IN - 570008. ",
+    "phone1": "+91 8197-755631",
+    "phone2": "+91 7892-281964",
+    "phone3": "+91 9019-773435",
+    "phone4": "+91 7204-252723",
+    "phone5": "+91 7619-605632",
+    "phone6": "+91 7676-214631",
+    "phone7": "+91 6362-430879",
+    "phone8": "+91 8217-280327",
+    "phone9": "+91 9148-970962",
+    "email1": "avinya@gmail.com",
+    "instagram": "https://www.instagram.com/avinya_tech?igsh=YW9qbXZhNGZpZ2U5"
+  },
+  "Features": [
+    {
+      "icon": "",
+      "title": "Energy Efficient",
+      "text": "Sustainable power, cutting costs, our world, your savings intertwined."
+    },
+    {
+      "icon": "fa fa-brands fa-artstation",
+      "title": "Uniform Heating",
+      "text": "Even warmth, no cold corners, every inch comfortably embraced."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Effortless Control",
+      "text": "Seamless commands, your wishes met effortlessly, control at fingertips."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Uniquluxe",
+      "text": "Distinctive elegance, a touch of luxury, Uniquluxe defines exclusivity."
+    }
+  ]
+}
